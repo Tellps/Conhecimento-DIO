@@ -6,3 +6,4 @@ para entender como a linguagem funciona e como deixar o repertório mais agradá
 
 ## Introdução ao HTML5
 Aprendi também o básico sobre HTML5. Apesar de ter conhecimento prévio sobre o mesmo, relambrar sempre é bom.
+Vi como funcionam as tags para texto (p) e links (a href="")
