@@ -11,3 +11,7 @@ Aprendi o conceito de Padding e Margin:
 
 ### Margin
 - Distância externa
+
+
+## Background
+Com essa propriedade é possível mudar a cor do background do site. As cores podem ser colocadas em inglês ou em hexadecimal
